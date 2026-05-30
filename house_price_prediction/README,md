@@ -1,0 +1,113 @@
+# 🏠 House Price Prediction using Linear Regression
+
+This project predicts house prices using the California Housing Dataset and the Linear Regression algorithm.
+
+## 📌 Project Overview
+
+The goal of this project is to predict house prices based on different housing-related features such as:
+
+- Median Income
+- House Age
+- Average Rooms
+- Average Bedrooms
+- Population
+- Average Occupancy
+- Latitude
+- Longitude
+
+The project demonstrates a complete Machine Learning Regression workflow.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Jupyter Notebook
+
+---
+
+## 🤖 Machine Learning Algorithm
+
+### Linear Regression
+
+Linear Regression is a supervised machine learning algorithm used for predicting continuous numerical values.
+
+In this project, it is used to estimate house prices based on housing features.
+
+---
+
+## 📊 Workflow
+
+1. Import Libraries
+2. Load California Housing Dataset
+3. Explore Dataset
+4. Create DataFrame
+5. Separate Features and Target
+6. Train-Test Split
+7. Train Linear Regression Model
+8. Predict House Prices
+9. Evaluate Model Performance
+
+---
+
+## 📈 Evaluation Metrics
+
+The model was evaluated using:
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+### Results
+
+| Metric | Value |
+|----------|----------|
+| MSE | 0.556 |
+| RMSE | 0.746 |
+| R² Score | 0.576 |
+
+---
+
+## 📂 Project Structure
+
+```bash
+house_price_prediction/
+│
+├── house_price_prediction.ipynb
+└── README.md
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project I learned:
+
+- Regression Problems
+- Linear Regression
+- Train-Test Split
+- Model Prediction
+- Regression Evaluation Metrics
+- R² Score Analysis
+
+---
+
+## 🚀 Future Improvements
+
+- Feature Engineering
+- Data Visualization
+- Hyperparameter Tuning
+- Model Deployment using Streamlit
+
+---
+
+## 👩‍💻 Author
+
+Shivani Chaudhary
+
+GitHub:
+https://github.com/officialshivanichaudhary
