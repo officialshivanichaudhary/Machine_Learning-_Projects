@@ -1,8 +1,6 @@
-# 🤖 Machine Learning Projects
+# 🤖 Machine Learning Projects Portfolio
 
-This repository contains my Machine Learning learning journey and hands-on projects built using Python, Scikit-Learn, and Jupyter Notebook.
-
-The goal of this repository is to practice and understand different Machine Learning concepts through practical implementation.
+Welcome to my Machine Learning Projects Repository. This repository contains hands-on Machine Learning projects built using Python and Scikit-Learn.
 
 ---
 
@@ -15,13 +13,9 @@ The goal of this repository is to practice and understand different Machine Lear
 **Type:** Classification
 
 **Description:**
-A machine learning model that classifies iris flowers into three categories:
+Classifies Iris flowers into Setosa, Versicolor, and Virginica based on flower measurements.
 
-* Setosa
-* Versicolor
-* Virginica
-
-**Concepts Learned:**
+**Concepts Covered:**
 
 * Supervised Learning
 * Classification
@@ -38,15 +32,34 @@ A machine learning model that classifies iris flowers into three categories:
 **Type:** Regression
 
 **Description:**
-A machine learning model that predicts house prices using the California Housing Dataset.
+Predicts house prices using the California Housing Dataset.
 
-**Concepts Learned:**
+**Concepts Covered:**
 
 * Regression
 * Linear Regression
-* Feature Selection
+* Feature Analysis
 * MAE, MSE, RMSE
 * R² Score
+
+---
+
+### 📧 3. Spam Email Detection
+
+**Algorithm:** TF-IDF + Naive Bayes
+
+**Type:** NLP + Classification
+
+**Description:**
+Classifies emails/messages as Spam or Not Spam using Natural Language Processing techniques.
+
+**Concepts Covered:**
+
+* Text Preprocessing
+* TF-IDF Vectorization
+* Naive Bayes Classification
+* NLP Fundamentals
+* Text Classification
 
 ---
 
@@ -57,28 +70,20 @@ A machine learning model that predicts house prices using the California Housing
 * NumPy
 * Scikit-Learn
 * Jupyter Notebook
-* Git & GitHub
+* Git
+* GitHub
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Skills Demonstrated
 
-This repository is focused on:
-
-* Understanding Machine Learning fundamentals
-* Implementing ML algorithms from scratch using libraries
-* Building practical projects
-* Learning model evaluation techniques
-* Creating a strong ML portfolio
-
----
-
-## 🚀 Upcoming Projects
-
-* Spam Email Detection (NLP)
-* Customer Churn Prediction
-* Titanic Survival Prediction
-* Loan Approval Prediction
+* Classification
+* Regression
+* Natural Language Processing (NLP)
+* Data Preprocessing
+* Model Training
+* Model Evaluation
+* Machine Learning Workflow
 
 ---
 
